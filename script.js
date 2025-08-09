@@ -5,9 +5,9 @@ let activeLoans = [];
 
 // --- Google Sheets API Configuration ---
 // IMPORTANT: Replace these placeholder values with your actual credentials.
-const CLIENT_ID = '310556038461-e3b6dn1vtph2vhq4g3vu39a1fi9r64s8.apps.googleusercontent.com'; 
-const API_KEY = 'AIzaSyDeEKbvpaboKtojryxDcLx7iGuPCeFdv50'; 
-const SPREADSHEET_ID = '1FwXvfXQtgovokYTPVQOo0Aee4J6SRtpEecVkrVhQKq8'; // <<< SET YOUR FIXED ID HERE
+const CLIENT_ID = '104045144138-20osgilt7ei5ejoivc1buh24m4g0t13h.apps.googleusercontent.com'; 
+const API_KEY = 'AIzaSyBdV7nW1z9E1a0HbAMO59NpyMSbaxJdaHQ'; 
+const SPREADSHEET_ID = '1FqSTR6h3NJtOwoJLL9pYyM-CMPxXNoBeGomCAo19m0o'; // <<< SET YOUR FIXED ID HERE
 const SCOPES = 'https://www.googleapis.com/auth/spreadsheets';
 
 let tokenClient;
